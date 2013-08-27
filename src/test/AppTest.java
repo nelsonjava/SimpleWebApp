@@ -3,7 +3,7 @@ import org.junit.Test;
 import com.thoughtworks.selenium.DefaultSelenium;
 import com.thoughtworks.selenium.SeleniumException;
 
-public class SeleniumHelloWorldExample extends TestCase {
+public class AppTest extends TestCase {
   private DefaultSelenium selenium;
 
   @Override
